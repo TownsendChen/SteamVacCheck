@@ -26,5 +26,5 @@ def check_vac_status(steam_id):
 
 # 示例用法
 if __name__ == "__main__":
-    steam_id_to_check = '76561199665046947'  # 替换为你要查询的Steam账号的Steam ID
+    steam_id_to_check = 'id'  # 替换为你要查询的Steam账号的Steam ID
     check_vac_status(steam_id_to_check)
